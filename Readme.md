@@ -17,9 +17,7 @@ I'm a Software Developer and Data Science Specialist with a passion for machine 
 
 
 ## 🚀 Projects
-<!-- 
-- [Project Name](link) - Brief description, technologies used.
--->
+
 
 
 **Personal Projects**
@@ -42,25 +40,8 @@ I'm a Software Developer and Data Science Specialist with a passion for machine 
 - [Introduction to Machine Learning](https://github.com/Codeblockz/UMBC-CMSC-478-Fall-2019) - This repository contains class work for the Introduction to Machine Learning course at UMBC. This course taught the basics of machine learning.
   - **Languages Used:** Python, HTML
   - **Concepts Demonstrated:** Classification
-<!--
-## 🏆 Achievements
-- Certified Data Scientist from IBM
-- Winner of ABC Hackathon
--->
+
 ## 📫 Let's Connect
 - LinkedIn: [Ryan Ellis](https://www.linkedin.com/in/ryan-a-ellis/)
 - Email: ryan.a.ellis.1@gmail.com
-<!--
-**Codeblockz/Codeblockz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
