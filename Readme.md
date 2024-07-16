@@ -21,6 +21,7 @@ I'm a Software Developer and Data Science Specialist with a passion for machine 
 
 
 **Personal Projects**
+- [Crew AI Blog Writer](https://github.com/Codeblockz/CrewAI_Bloger_Demo) 6/24/24 - I developed a Jupyter Notebook script using the Crew AI framework to author a blog. This project leverages Python and multi-agent systems. The blog can be found [here](https://medium.com/@ryan.a.ellis.1/a-blog-about-a-crew-ai-crew-that-writes-about-a-crew-ai-crew-writing-a-blog-e85628159808)
 - [RAG Chatbot Example](https://github.com/Codeblockz/Data-Science-Self-Projects/tree/main/Chat%20bots) - This is an example of a python script using Retrieval-augmented generation. The goal of the bot was to use a blog as the source for the RAG.
   - **Languages Used:** Python
   - **Libraries Used:** OpenAI, Pandas, Langchain, ChromaDB
